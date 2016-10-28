@@ -1,3 +1,5 @@
+package br.com.mre.pessoa;
+
 public class Nome {
     String nomeString;
 
